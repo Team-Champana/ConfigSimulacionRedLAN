@@ -1,6 +1,12 @@
 # ConfigSimulacionRedLAN
 Clase: Redes y Comunicación de datos.
 
+Integrantes: Juan Esteban Pinilla Aguilera
+| Nicolás Vargas Wilches
+| Cesar Augusto Pérez González.
+
+_________________________________________________
+
 - Se Montó la topología en CISCO Packet Tracer, Utilizando los modelos solicitados como se muestra en el video.
 - Se realizo la configuracion basica de los switches y del rauter.
 - Se asignaron las IP correspondientes del direccionamiento de la red LAN, segun se muestra la tabla:
